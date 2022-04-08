@@ -26,3 +26,4 @@ github : https://github.com/yebiny
 * 6-1. 라이브러리: 랜덤
 * 6-2. 라이브러리:  
 
+리드미를 수정했다
